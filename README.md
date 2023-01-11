@@ -26,5 +26,4 @@ felicitous augmentations and pre-processing. Following which, I reconstructed th
 
 •	I reported the Accuracy, F1 score, Specificity and Sensitivity for all the cases.
 
-•	For seamless implementation, scripted a few auxiliary functions which I have described
-in detail next.
+•	For seamless implementation, scripted a few auxiliary functions which I have described in a separate file.
