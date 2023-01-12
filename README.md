@@ -2,6 +2,7 @@
 
 
 Dataset: The dataset consists of 3554 CT scans of Covid-19 infected patients and their corresponding expert annotated masks for Normal and Infected Regions.
+
 Link : https://drive.google.com/drive/folders/1OD6hNnD0l-klFcl3ZLkgEaZoUz4fPtrB?usp=sharing
 
 Introduction:
