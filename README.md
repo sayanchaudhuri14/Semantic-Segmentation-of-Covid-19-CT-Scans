@@ -19,7 +19,7 @@ Introduction:
 
 •	I performed PCA on a given data and projected the high dimensional CT embeddings to 100 and 50 dimensions. Plotted a graph between the reconstruction error and the number of principal components.
 
-•	In the next part, I applied PCA to covid-19 mask dataset, and further, it was split into train-test-val sets. I applied with linear and RBF kernels to classify the embeddings into Normal, Mild, and Severe categories. Finally, I reported the Accuracy and F1-scored for the training and test datasets for all the classes.
+•	In the next part, I applied PCA to covid-19 mask dataset, and further, it was split into train-test-val sets. I applied SVM with linear and RBF kernels to classify the embeddings into Normal, Mild, and Severe categories. Finally, I reported the Accuracy and F1-scored for the training and test datasets for all the classes.
 
 •	Then, I trained a U-Net model using the given dataset after applying
 felicitous augmentations and pre-processing. Following which, I reconstructed the CT scans using limited-angle sinograms and predicted the segmentation masks of the reconstructed test cases.
